@@ -11,3 +11,6 @@ valor = 100.00
 # Declare uma variável do tipo booleano
 verdade = True
 mentira = False
+print (nome)
+print (valor)
+print (idade)
